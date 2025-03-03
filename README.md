@@ -1,1 +1,1 @@
-[View the PDF](Documentation.pdf)
+[Документация](Documentation.pdf)
